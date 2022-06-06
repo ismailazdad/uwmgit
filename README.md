@@ -21,3 +21,6 @@ The test set in this competition is only available when your code is submitted. 
 
 When you submit your notebook, your code will be run against the non-hidden test set, which has the same folder format (<case>/<case_day>/<scans>) as the training data.
 
+  
+![image](https://user-images.githubusercontent.com/74118071/172184479-6292a3c5-f15c-400e-9e3e-89ff3193e42b.png)
+  
