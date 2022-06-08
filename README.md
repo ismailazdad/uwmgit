@@ -28,3 +28,7 @@ When you submit your notebook, your code will be run against the non-hidden test
   
 ![image](https://user-images.githubusercontent.com/74118071/172184479-6292a3c5-f15c-400e-9e3e-89ff3193e42b.png)
   
+Example inference :
+  
+  
+  ![image](https://user-images.githubusercontent.com/74118071/172619374-4551c1f0-f7ca-4589-8523-f31b41653596.png)
